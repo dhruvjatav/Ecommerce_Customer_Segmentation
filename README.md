@@ -46,3 +46,13 @@ It helps businesses understand customer behavior and improve retention & marketi
 ---
 
 ## 📂 Project Structure
+Ecommerce_Customer_Segmentation/
+│
+├── data/ # Dataset
+├── python/ # Python scripts
+├── sql/ # SQL cleaning queries
+├── powerbi/ # Power BI dashboard
+├── images/ # Dashboard screenshots
+├── README.md # Project overview
+├── LICENSE # Open source license
+└── .gitignore # Files excluded from Git tracking
