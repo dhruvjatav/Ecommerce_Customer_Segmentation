@@ -1,22 +1,48 @@
-# 🛒 E-Commerce Customer Segmentation
+# 🛒 E-Commerce Customer Segmentation Dashboard
 
-Analyze customer behavior using RFM (Recency, Frequency, Monetary) and CLV (Customer Lifetime Value).
+## 📖 Overview
+This project analyzes e-commerce transactions to identify different customer segments using **RFM (Recency, Frequency, Monetary)** analysis.  
+It helps businesses understand customer behavior and improve retention & marketing strategies.
 
-## 🎯 Objective
-Identify loyal, potential, and at-risk customers to improve marketing strategies.
+---
 
-## 🧰 Tools Used
-- Python (Pandas, NumPy)
-- SQL (Data Cleaning)
-- Power BI (Visualization)
-- GitHub (Version Control)
+## 🎯 Objectives
+- Segment customers into groups (Loyal, At-Risk, High-Value)
+- Analyze customer purchase frequency and value
+- Build an interactive **Power BI Dashboard** for business insights
 
-## 📊 Workflow
-1. Clean data using SQL  
-2. Perform RFM Analysis in Python  
-3. Build Dashboard in Power BI  
-4. Publish Results on GitHub
+---
 
-## 👨‍💻 Author
-**Dhruv Jatav**  
-_Data Analyst | Python | SQL | Power BI Enthusiast_
+## 🧰 Tools & Technologies Used
+| Tool | Purpose |
+|------|----------|
+| 🐍 Python | Data Cleaning & RFM Analysis |
+| 🧮 SQL | Data Preprocessing |
+| 📊 Power BI | Dashboard Visualization |
+| 💾 Git & GitHub | Version Control & Portfolio |
+
+---
+
+## 🔍 Steps Performed
+1. Imported & cleaned raw data using Python and SQL  
+2. Calculated **Recency, Frequency, Monetary** values  
+3. Classified customers into segments  
+4. Designed a **Power BI Dashboard** to visualize insights  
+
+---
+
+## 📈 Key Insights
+- Top 10% customers contribute ~60% revenue  
+- High Recency customers are most active buyers  
+- Segmenting helps in targeted marketing strategies  
+
+---
+
+## 📸 Dashboard Preview
+*(Add your Power BI dashboard image in `images/` folder and replace the link below)*  
+
+![Dashboard Preview](images/dashboard_preview.png)
+
+---
+
+## 📂 Project Structure
