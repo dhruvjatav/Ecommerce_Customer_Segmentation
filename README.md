@@ -60,4 +60,12 @@ Ecommerce_Customer_Segmentation/
 └── .gitignore        # Files excluded from Git tracking
 ```
 
----
+--- 
+## 🧠 Customer Behavior Analysis Dashboard (Power BI)
+
+An interactive Power BI dashboard visualizing customer behavior  
+and monthly active customer trends — styled in a **Dark Premium Theme (Black + Neon Blue + Lime Green)**.
+
+### 🖼️ Dashboard Preview
+![Dashboard Preview](dashboard_preview.png)
+
